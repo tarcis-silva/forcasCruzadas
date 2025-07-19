@@ -1,7 +1,22 @@
 {
   "desafios_disponiveis": [
-    1,
-    2,
-    3
+    {
+      "id": 1,
+      "versao": 1,
+      "data": "2025-07-08T03:00:00.000Z",
+      "filename": "1.json"
+    },
+    {
+      "id": 2,
+      "versao": 1,
+      "data": "2025-07-03T03:00:00.000Z",
+      "filename": "2.json"
+    },
+    {
+      "id": 3,
+      "versao": 1,
+      "data": "2025-06-28T03:00:00.000Z",
+      "filename": "3.json"
+    }
   ]
 }
