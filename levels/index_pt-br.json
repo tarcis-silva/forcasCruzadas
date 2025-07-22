@@ -4,31 +4,49 @@
       "id": 1,
       "versao": 1,
       "data": "2025-07-08",
-      "filename": "1.json"
+      "filename": "1.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Estados brasileiros"
     },
     {
       "id": 2,
       "versao": 1,
       "data": "2025-07-03",
-      "filename": "2.json"
+      "filename": "2.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Times brasileiros de futebol"
     },
     {
       "id": 3,
       "versao": 1,
       "data": "2025-06-28",
-      "filename": "3.json"
+      "filename": "3.json",
+      "Dificuldade": "Médio",
+      "Tema": "Raças de cães"
     },
     {
       "id": 4,
       "versao": 2,
       "data": "2025-07-22",
-      "filename": "4.json"
+      "filename": "4.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Tem na escola"
     },
     {
       "id": 5,
       "versao": 1,
       "data": "2025-07-21",
-      "filename": "5.json"
+      "filename": "5.json",
+      "Dificuldade": "Difícil",
+      "Tema": "Filmes da Pixar"
+    },
+    {
+      "id": 6,
+      "versao": 1,
+      "data": "2025-07-20",
+      "filename": "6.json",
+      "Dificuldade": "Médio",
+      "Tema": "Músicas da Preta Gil"
     }
   ]
 }
