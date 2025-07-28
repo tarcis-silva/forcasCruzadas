@@ -2,44 +2,44 @@
   "desafios_disponiveis": [
     {
       "id": 1,
-      "versao": 1,
-      "data": "2025-07-08",
+      "versao": 2,
+      "data": "2025-07-21",
       "filename": "1.json"
     },
     {
       "id": 2,
-      "versao": 1,
-      "data": "2025-07-03",
+      "versao": 2,
+      "data": "2025-07-22",
       "filename": "2.json"
     },
     {
       "id": 3,
-      "versao": 1,
-      "data": "2025-06-28",
+      "versao": 2,
+      "data": "2025-07-23",
       "filename": "3.json"
     },
     {
       "id": 4,
-      "versao": 2,
-      "data": "2025-07-22",
+      "versao": 3,
+      "data": "2025-07-24",
       "filename": "4.json"
     },
     {
       "id": 5,
-      "versao": 1,
-      "data": "2025-07-21",
+      "versao": 2,
+      "data": "2025-07-25",
       "filename": "5.json"
     },
     {
       "id": 6,
-      "versao": 3,
-      "data": "2025-07-25",
+      "versao": 4,
+      "data": "2025-07-26",
       "filename": "6.json"
     },
     {
       "id": 7,
-      "versao": 1,
-      "data": "2025-07-26",
+      "versao": 2,
+      "data": "2025-07-27",
       "filename": "7.json"
     },
     {
