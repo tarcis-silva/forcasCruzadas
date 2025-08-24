@@ -2,99 +2,123 @@
   "desafios_disponiveis": [
     {
       "id": 1,
-      "versao": 2,
-      "data": "2025-07-21",
-      "filename": "1.json"
+      "versao": 0,
+      "data": "2025-08-17",
+      "filename": "1.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Estados brasileiros"
     },
     {
       "id": 2,
-      "versao": 2,
-      "data": "2025-07-22",
-      "filename": "2.json"
+      "versao": 0,
+      "data": "2025-08-18",
+      "filename": "2.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Times brasileiros de futebol"
     },
     {
       "id": 3,
-      "versao": 3,
-      "data": "2025-07-23",
-      "filename": "3.json"
+      "versao": 0,
+      "data": "2025-08-19",
+      "filename": "3.json",
+      "Dificuldade": "Médio",
+      "Tema": "Raças de cães"
     },
     {
       "id": 4,
-      "versao": 3,
-      "data": "2025-07-24",
-      "filename": "4.json"
+      "versao": 0,
+      "data": "2025-08-20",
+      "filename": "4.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Tem na escola"
     },
     {
       "id": 5,
-      "versao": 2,
-      "data": "2025-07-25",
-      "filename": "5.json"
+      "versao": 0,
+      "data": "2025-08-21",
+      "filename": "5.json",
+      "Dificuldade": "Difícil",
+      "Tema": "Filmes da Pixar"
     },
     {
       "id": 6,
-      "versao": 5,
-      "data": "2025-07-26",
-      "filename": "6.json"
+      "versao": 0,
+      "data": "2025-08-22",
+      "filename": "6.json",
+      "Dificuldade": "Médio",
+      "Tema": "Músicas da Preta Gil"
     },
     {
       "id": 7,
-      "versao": 2,
-      "data": "2025-07-27",
-      "filename": "7.json"
+      "versao": 0,
+      "data": "2025-08-23",
+      "filename": "7.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Tem no salão de beleza"
     },
     {
       "id": 8,
-      "versao": 1,
-      "data": "2025-07-28",
-      "filename": "8.json"
+      "versao": 0,
+      "data": "2025-08-24",
+      "filename": "8.json",
+      "Dificuldade": "Médio",
+      "Tema": "Personagens do folclore brasileiro"
     },
     {
       "id": 9,
-      "versao": 1,
-      "data": "2025-07-29",
-      "filename": "9.json"
+      "versao": 0,
+      "data": "2025-08-25",
+      "filename": "9.json",
+      "Dificuldade": "Médio",
+      "Tema": "Músicas dos Beatles"
     },
     {
       "id": 10,
-      "versao": 1,
-      "data": "2025-07-30",
-      "filename": "10.json"
+      "versao": 0,
+      "data": "2025-08-26",
+      "filename": "10.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Tem no hospital"
     },
     {
       "id": 11,
-      "versao": 3,
-      "data": "2025-07-31",
-      "filename": "11.json"
+      "versao": 0,
+      "data": "2025-08-27",
+      "filename": "11.json",
+      "Dificuldade": "Médio",
+      "Tema": "Livros da Bíblia"
     },
     {
       "id": 12,
-      "versao": 3,
-      "data": "2025-08-20",
-      "filename": "12.json"
+      "versao": 0,
+      "data": "2025-08-28",
+      "filename": "12.json",
+      "Dificuldade": "Difícil",
+      "Tema": "Países da Oceania"
     },
     {
       "id": 13,
-      "versao": 2,
-      "data": "2025-08-21",
-      "filename": "13.json"
+      "versao": 0,
+      "data": "2025-08-29",
+      "filename": "13.json",
+      "Dificuldade": "Médio",
+      "Tema": "Princesas da Disney"
     },
     {
       "id": 14,
-      "versao": 2,
-      "data": "2025-08-22",
-      "filename": "14.json"
+      "versao": 0,
+      "data": "2025-08-30",
+      "filename": "14.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Músicas do Roberto Carlos"
     },
     {
       "id": 15,
-      "versao": 2,
-      "data": "2025-08-23",
-      "filename": "15.json"
-    },
-    {
-      "id": 16,
-      "versao": 3,
-      "data": "2025-08-24",
-      "filename": "16.json"
+      "versao": 0,
+      "data": "2025-08-31",
+      "filename": "15.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Instrumentos musicais"
     }
   ]
 }
