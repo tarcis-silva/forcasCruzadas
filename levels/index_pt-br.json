@@ -106,7 +106,7 @@
     },
     {
       "id": 14,
-      "versao": 1,
+      "versao": 0,
       "data": "2025-08-30",
       "filename": "14.json",
       "Dificuldade": "Fácil",
@@ -114,11 +114,19 @@
     },
     {
       "id": 15,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-31",
       "filename": "15.json",
       "Dificuldade": "Médio",
       "Tema": "Princesas da Disney"
+    },
+    {
+      "id": 16,
+      "versao": 0,
+      "data": "2025-09-01",
+      "filename": "16.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Novelas da Globo"
     }
   ]
 }
