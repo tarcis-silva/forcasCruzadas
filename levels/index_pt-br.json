@@ -66,19 +66,19 @@
     },
     {
       "id": 9,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-25",
       "filename": "9.json",
-      "Dificuldade": "Médio",
-      "Tema": "Músicas dos Beatles"
+      "Dificuldade": "Fácil",
+      "Tema": "Tem no hospital"
     },
     {
       "id": 10,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-26",
       "filename": "10.json",
-      "Dificuldade": "Fácil",
-      "Tema": "Tem no hospital"
+      "Dificuldade": "Médio",
+      "Tema": "Músicas dos Beatles"
     },
     {
       "id": 11,
@@ -98,15 +98,15 @@
     },
     {
       "id": 13,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-29",
       "filename": "13.json",
-      "Dificuldade": "Médio",
-      "Tema": "Princesas da Disney"
+      "Dificuldade": "Fácil",
+      "Tema": "Instrumentos musicais"
     },
     {
       "id": 14,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-30",
       "filename": "14.json",
       "Dificuldade": "Fácil",
@@ -117,8 +117,8 @@
       "versao": 0,
       "data": "2025-08-31",
       "filename": "15.json",
-      "Dificuldade": "Fácil",
-      "Tema": "Instrumentos musicais"
+      "Dificuldade": "Médio",
+      "Tema": "Princesas da Disney"
     }
   ]
 }
