@@ -2,67 +2,75 @@
   "desafios_disponiveis": [
     {
       "id": 1,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-17",
       "filename": "1.json",
       "Dificuldade": "Fácil",
-      "Tema": "Estados brasileiros"
+      "Tema": "Estados brasileiros",
+      "": ""
     },
     {
       "id": 2,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-18",
       "filename": "2.json",
       "Dificuldade": "Fácil",
-      "Tema": "Times brasileiros de futebol"
+      "Tema": "Times brasileiros de futebol",
+      "": ""
     },
     {
       "id": 3,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-19",
       "filename": "3.json",
       "Dificuldade": "Médio",
-      "Tema": "Raças de cães"
+      "Tema": "Raças de cães",
+      "": ""
     },
     {
       "id": 4,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-20",
       "filename": "4.json",
       "Dificuldade": "Fácil",
-      "Tema": "Tem na escola"
+      "Tema": "Tem na escola",
+      "": ""
     },
     {
       "id": 5,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-21",
       "filename": "5.json",
       "Dificuldade": "Difícil",
-      "Tema": "Filmes da Pixar"
+      "Tema": "Filmes da Pixar",
+      "": ""
     },
     {
       "id": 6,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-22",
       "filename": "6.json",
       "Dificuldade": "Médio",
-      "Tema": "Músicas da Preta Gil"
+      "Tema": "Músicas da Preta Gil",
+      "": ""
     },
     {
       "id": 7,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-23",
       "filename": "7.json",
       "Dificuldade": "Fácil",
-      "Tema": "Tem no salão de beleza"
+      "Tema": "Tem no salão de beleza",
+      "": ""
     },
     {
       "id": 8,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-24",
       "filename": "8.json",
       "Dificuldade": "Médio",
-      "Tema": "Personagens do folclore brasileiro"
+      "Tema": "Personagens do folclore brasileiro",
+      "": ""
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "data": "2025-08-25",
       "filename": "9.json",
       "Dificuldade": "Fácil",
-      "Tema": "Tem no hospital"
+      "Tema": "Tem no hospital",
+      "": ""
     },
     {
       "id": 10,
@@ -78,23 +87,26 @@
       "data": "2025-08-26",
       "filename": "10.json",
       "Dificuldade": "Médio",
-      "Tema": "Músicas dos Beatles"
+      "Tema": "Músicas dos Beatles",
+      "": ""
     },
     {
       "id": 11,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-27",
       "filename": "11.json",
       "Dificuldade": "Médio",
-      "Tema": "Livros da Bíblia"
+      "Tema": "Livros da Bíblia",
+      "": ""
     },
     {
       "id": 12,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-28",
       "filename": "12.json",
       "Dificuldade": "Difícil",
-      "Tema": "Países da Oceania"
+      "Tema": "Países da Oceania",
+      "": ""
     },
     {
       "id": 13,
@@ -102,15 +114,17 @@
       "data": "2025-08-29",
       "filename": "13.json",
       "Dificuldade": "Fácil",
-      "Tema": "Instrumentos musicais"
+      "Tema": "Instrumentos musicais",
+      "": ""
     },
     {
       "id": 14,
-      "versao": 0,
+      "versao": 1,
       "data": "2025-08-30",
       "filename": "14.json",
       "Dificuldade": "Fácil",
-      "Tema": "Músicas do Roberto Carlos"
+      "Tema": "Músicas do Roberto Carlos",
+      "": ""
     },
     {
       "id": 15,
@@ -118,7 +132,8 @@
       "data": "2025-08-31",
       "filename": "15.json",
       "Dificuldade": "Médio",
-      "Tema": "Princesas da Disney"
+      "Tema": "Princesas da Disney",
+      "": ""
     },
     {
       "id": 16,
@@ -126,7 +141,71 @@
       "data": "2025-09-01",
       "filename": "16.json",
       "Dificuldade": "Fácil",
-      "Tema": "Novelas da Globo"
+      "Tema": "Novelas da Globo",
+      "": ""
+    },
+    {
+      "id": 17,
+      "versao": 1,
+      "data": "2025-09-02",
+      "filename": "17.json",
+      "Dificuldade": "Médio",
+      "Tema": "Tipos de feijão",
+      "": "OK"
+    },
+    {
+      "id": 18,
+      "versao": 1,
+      "data": "2025-09-03",
+      "filename": "18.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Apresentadores de TV brasileiros",
+      "": "OK"
+    },
+    {
+      "id": 19,
+      "versao": 1,
+      "data": "2025-09-04",
+      "filename": "19.json",
+      "Dificuldade": "Médio",
+      "Tema": "Personagens de filmes de terror",
+      "": "OK"
+    },
+    {
+      "id": 20,
+      "versao": 1,
+      "data": "2025-09-05",
+      "filename": "20.json",
+      "Dificuldade": "Difícil",
+      "Tema": "Times de futebol americano da NFL",
+      "": "OK"
+    },
+    {
+      "id": 21,
+      "versao": 1,
+      "data": "2025-09-06",
+      "filename": "21.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Apóstolos de Jesus",
+      "": "OK"
+    },
+    {
+      "id": 22,
+      "versao": 1,
+      "data": "2025-09-07",
+      "filename": "22.json",
+      "Dificuldade": "Difícil",
+      "Tema": "Atrações do The Town 2025",
+      "": "OK"
+    },
+    {
+      "id": 23,
+      "versao": 1,
+      "data": "2025-09-08",
+      "filename": "23.json",
+      "Dificuldade": "Fácil",
+      "Tema": "Tipos de macarrão",
+      "": ""
     }
   ]
 }
