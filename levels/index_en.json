@@ -2,9 +2,33 @@
   "desafios_disponiveis": [
     {
       "id": 1,
-      "versao": 98,
-      "data": "2025-08-30",
+      "versao": 1,
+      "data": "2025-09-05",
       "filename": "1.json"
+    },
+    {
+      "id": 2,
+      "versao": 1,
+      "data": "2025-09-06",
+      "filename": "2.json"
+    },
+    {
+      "id": 3,
+      "versao": 1,
+      "data": "2025-09-07",
+      "filename": "3.json"
+    },
+    {
+      "id": 4,
+      "versao": 1,
+      "data": "2025-09-08",
+      "filename": "4.json"
+    },
+    {
+      "id": 5,
+      "versao": 1,
+      "data": "2025-09-09",
+      "filename": "5.json"
     }
   ]
 }
