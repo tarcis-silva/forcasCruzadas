@@ -2,9 +2,9 @@
   "desafios_disponiveis": [
     {
       "special_id": 1,
-      "versao": 1,
-      "data_inicio": "2025-10-24",
-      "data_fim": "2025-10-28",
+      "versao": 2,
+      "data_inicio": "2025-11-08",
+      "data_fim": "2025-11-28",
       "desafio_inicio": "1",
       "desafio_fim": "5",
       "total_desafios": 5,
