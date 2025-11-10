@@ -2,12 +2,12 @@
   "desafios_disponiveis": [
     {
       "special_id": 1,
-      "versao": 2,
-      "data_inicio": "2025-11-08",
-      "data_fim": "2025-11-28",
-      "desafio_inicio": "1",
-      "desafio_fim": "5",
-      "total_desafios": 5,
+      "versao": 3,
+      "data_inicio": "2025-11-07",
+      "data_fim": "2025-11-12",
+      "desafio_inicio": "7",
+      "desafio_fim": "12",
+      "total_desafios": 6,
       "cor": "EAE1F9",
       "icone": "death",
       "tema": "Desafios especiais\nDia das bruxas"
