@@ -1,7 +1,16 @@
 {
   "desafios_disponiveis": [
     {
-      
+      "special_id": 1,
+      "versao": 1,
+      "data_inicio": "2025-11-24",
+      "data_fim": "2025-11-29",
+      "desafio_inicio": "1",
+      "desafio_fim": "4",
+      "total_desafios": 4,
+      "cor": "F4DAC3",
+      "icone": "star",
+      "tema": "Special challenges\nThanksgiving"
     }
   ]
 }
