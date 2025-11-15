@@ -11,6 +11,18 @@
       "cor": "EAE1F9",
       "icone": "death",
       "tema": "Desafios especiais\nDia das bruxas"
+    },
+    {
+      "special_id": 2,
+      "versao": 1,
+      "data_inicio": "2025-11-15",
+      "data_fim": "2025-11-18",
+      "desafio_inicio": "13",
+      "desafio_fim": "14",
+      "total_desafios": 2,
+      "cor": "E4F9E1",
+      "icone": "podium",
+      "tema": "Desafios especiais\nLibertadores"
     }
   ]
 }
