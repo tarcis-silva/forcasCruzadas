@@ -644,9 +644,15 @@
     },
     {
       "id": 108,
-      "versao": 2,
-      "data": "2025-12-20",
+      "versao": 1,
+      "data": "2025-12-21",
       "filename": "108.json"
+    },
+    {
+      "id": 109,
+      "versao": 1,
+      "data": "2025-12-22",
+      "filename": "109.json"
     }
   ]
 }
