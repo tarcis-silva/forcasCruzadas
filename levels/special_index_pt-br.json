@@ -23,6 +23,18 @@
       "cor": "E1EEF9",
       "icone": "medal",
       "tema": "Especial Jogos Olímpicos de Inverno"
+    },
+    {
+      "special_id": 3,
+      "versao": 1,
+      "data_inicio": "2026-03-11",
+      "data_fim": "2026-03-15",
+      "desafio_inicio": "10",
+      "desafio_fim": "14",
+      "total_desafios": 5,
+      "cor": "D5BA6D",
+      "icone": "videocam",
+      "tema": "Desafios especiais\\nOscar"
     }
   ]
 }
