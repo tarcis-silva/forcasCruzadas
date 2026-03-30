@@ -1,6 +1,6 @@
 {
   "id": 226,
-  "versao": 1,
+  "versao": 2,
   "data": "2026-03-30",
   "dificuldade": "Médio",
   "tema": "Filmes que se passam no espaço",
@@ -233,9 +233,9 @@
     "",
     "",
     "",
+    "",
     "I",
     "N",
-    "S",
     "T",
     "E",
     "R",
@@ -307,7 +307,6 @@
     {
       "word": "INSTERESTELAR",
       "positions": [
-        226,
         227,
         228,
         229,
