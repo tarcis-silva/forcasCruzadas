@@ -35,6 +35,18 @@
       "cor": "D5BA6D",
       "icone": "videocam",
       "tema": "Desafios especiais\\nOscar"
+    },
+    {
+      "special_id": 4,
+      "versao": 1,
+      "data_inicio": "2026-05-14",
+      "data_fim": "2026-05-18",
+      "desafio_inicio": "15",
+      "desafio_fim": "19",
+      "total_desafios": 5,
+      "cor": "E4F9E1",
+      "icone": "podium",
+      "tema": "Especial Campeões Seleção Brasileira"
     }
   ]
 }
