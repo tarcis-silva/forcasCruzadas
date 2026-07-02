@@ -1,6 +1,6 @@
 {
   "id": 300,
-  "versao": 1,
+  "versao": 2,
   "data": "2026-07-01",
   "dificuldade": "Hard",
   "tema": "Bosnia and Herzegovina",
@@ -32,7 +32,7 @@
     "O",
     "",
     "",
-    "Ć",
+    "C",
     "",
     "",
     "",
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "word": "ĆEVAPI",
+      "word": "CEVAPI",
       "positions": [
         25,
         41,
